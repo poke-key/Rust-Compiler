@@ -1,0 +1,6 @@
+*.mil
+
+target/
+.idea/
+.vscode/
+.history/
